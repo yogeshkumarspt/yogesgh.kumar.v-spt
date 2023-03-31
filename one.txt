@@ -4,4 +4,5 @@ batadi tumkur
 
 compureter science <s.e>
 softwareengineeering
-cn
+computer network 
+python
